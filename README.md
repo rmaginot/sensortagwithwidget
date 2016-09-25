@@ -1,6 +1,4 @@
-sensortagwithwidget
-===================
+Smartmosphere
+=============
 
-TI Sensor Tag sample code with widget
-
-This is the Texas Instrument Sensor Tag sample code and i try to add a widget. :)
+Bonjour, vous trouverez ici les codes sources des kits Smartmosphere.
